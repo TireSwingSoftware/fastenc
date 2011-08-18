@@ -1,3 +1,5 @@
+'''Not actually a test suite at the moment, just an example'''
+
 # Example GetMediaList call
 from fastenc.actions import GetMediaList
 import logging
