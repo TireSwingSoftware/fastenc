@@ -1,7 +1,7 @@
 """
 An implementation of the encoding.com API in Python
 
-:Author: Sean Myers <smyers@americanri.com>
+:Author: Sean Myers
 
 In lieu of a good test suite (coming soon...), a quick example usage for adding media
 

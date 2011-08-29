@@ -7,4 +7,6 @@ setup(name='fastenc',
     description='encoding.com library',
     packages=('fastenc',),
     license='BSD',
+    author='Sean Myers',
+    author_email='sean.dst@gmail.com',
 )
